@@ -3,3 +3,5 @@ The project is an web store where the user can purchase online courses in IT are
 
 # CHECK IT YOURSELF:
 Hosting on: https://illustrious-gelato-478c12.netlify.app/
+
+![image](https://github.com/user-attachments/assets/6522fe0c-6576-4a3c-b611-8cc8f67bfe6f)
